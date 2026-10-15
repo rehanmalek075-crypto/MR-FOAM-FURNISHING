@@ -1,0 +1,34 @@
+      <div class="products">
+        <article class="product">
+          <img src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=85" alt="Comfortable modern sofa" loading="lazy">
+          <div class="copy"><h4>Sofas</h4><p>Comfortable sofas in many styles and fabrics.</p></div>
+        </article>
+
+        <article class="product">
+          <!-- Curtain image: replaced with your Image 1 (curtain) -->
+          <img src="images/curtain-1.jpg" alt="Curtains — all types" loading="lazy">
+          <div class="copy"><h4>Curtains</h4><p>All types of curtains and tracks — made to measure.</p></div>
+        </article>
+
+        <article class="product">
+          <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=85" alt="Beautiful bedroom and bed" loading="lazy">
+          <div class="copy"><h4>Beds</h4><p>Beds and mattresses for every room and budget.</p></div>
+        </article>
+
+        <article class="product">
+          <!-- Pillow image: replaced so pillow photo appears in the pillow slot -->
+          <img src="images/pillow-3.jpg" alt="Pillows & cushions" loading="lazy">
+          <div class="copy"><h4>Pillows</h4><p>Soft pillows and cushion options — variety of fills and sizes.</p></div>
+        </article>
+
+        <article class="product">
+          <!-- Mosquito net added as a product -->
+          <img src="images/mosquito-2.jpg" alt="Mosquito nets — all types" loading="lazy">
+          <div class="copy"><h4>Mosquito Nets</h4><p>Window and bed mosquito nets — custom sizes available.</p></div>
+        </article>
+
+        <article class="product">
+          <img src="https://images.unsplash.com/photo-1615874694520-474822394e73?auto=format&fit=crop&w=900&q=85" alt="Coordinated modern living room furnishings" loading="lazy">
+          <div class="copy"><h4>Home Decor</h4><p>Coordinated accessories — cushions, covers, and decor pieces.</p></div>
+        </article>
+      </div>
